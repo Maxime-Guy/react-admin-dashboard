@@ -1,6 +1,6 @@
 # React Admin Dashboard App
 
-![Dashboard Screenshot](/screenshots/dashboard.png)
+https://github.com/Maxime-Guy/react-admin-dashboard/assets/104865225/9a45eeb5-7694-4ac8-bb3d-6b5d95594140
 
 This is a React-based administrator dashboard application that provides various data visualization components and features for managing and monitoring different aspects of your business or organization. The app is built using [Material-UI (MUI)](https://mui.com/), a popular React UI framework, and integrates several data visualization components, including bar charts, line charts, pie charts, geographical charts, and more.
 
